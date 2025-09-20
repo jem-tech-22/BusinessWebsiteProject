@@ -9,7 +9,6 @@
   margin-top: 0;
   color: #000000;
 }
-
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -21,7 +20,6 @@ body {
   max-width: 1100px;
   margin: 0 auto;
 }
-
 .site-header {
   background: #000000;
   border-bottom: 1px solid #eee;
@@ -78,7 +76,6 @@ body {
   cursor: pointer;
   font-size: 16px;
 }
-
 .hero {
   padding: 36px 0;
 }
@@ -103,7 +100,6 @@ body {
   max-width: 320px;
   border-radius: 12px;
 } */
-
 .btn {
   display: inline-block;
   padding: 10px 16px;
@@ -116,31 +112,26 @@ body {
   font-size: 16px;
   border: 1px solid #ddd;
 }
-
 .btn:hover {
   background: #ffffff;
   color: #000000;
   box-shadow: 0 2px 8px rgba(0,119,255,0.12);
   transition: background 0.2s, color 0.2s, box-shadow 0.2s;
 }
-
 .btn.ghost {
   background: black;
   border: 1px solid #ddd;
   color: #ffffff;
 }
-
 .btn.ghost:hover {
   background: #ffffff;
   color: #000000;
   box-shadow: 0 2px 8px rgba(0,119,255,0.12);
   transition: background 0.2s, color 0.2s, box-shadow 0.2s;
 }
-
 .muted {
   color: #666;
 }
-
 .promos {
   padding: 18px 0;
 }
@@ -170,7 +161,6 @@ body {
   font-size: 16px;
   margin-top: 8px;
 }
-
 .menu {
   padding: 20px 0;
 }
@@ -234,14 +224,12 @@ body {
   cursor: pointer;
   margin-left: 5px;
 }
-
 .add-btn:hover {
   background: #9bd7ff;
   color: #ffffff;
   box-shadow: 0 2px 8px rgba(0,119,255,0.12);
   transition: background 0.2s, color 0.2s, box-shadow 0.2s;
 }
-
 .about {
   padding: 20px 0;
 }
@@ -257,7 +245,6 @@ body {
   border-radius: 6px;
   /* border: 1px solid #9a9a9a; */
 }
-
 .order-form {
   padding: 20px 0;
 }
@@ -289,7 +276,6 @@ body {
   gap: 12px;
   align-items: center;
 }
-
 .site-footer {
   padding: 18px 0;
   text-align: center;
