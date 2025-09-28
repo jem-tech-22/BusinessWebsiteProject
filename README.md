@@ -20,5 +20,3 @@ It showcases a simple coffee shop concept and was created as a personal project 
 ## 🚀 Deployment
 This project is hosted on [Netlify](https://jem-coffee-22.netlify.app/).
 
-## 📜 License
-This project is for personal use and learning purposes. No license applied.
